@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resimler">
+        <file>images/background.jpg</file>
+        <file>images/cut_watermelon.png</file>
+        <file>images/watermelon.png</file>
+    </qresource>
+</RCC>
