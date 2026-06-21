@@ -35,6 +35,7 @@ Qt/C++ ile geliştirilmiş, fare ile karpuz kesme temalı bir reflex/arcade oyun
 ├── watermelongame.h/.cpp     # Oyun mantığı, Watermelon ve WatermelonGame sınıfları
 ├── resources.qrc             # Karpuz, kesilmiş karpuz ve arka plan görselleri
 └── WatermelonGame.pro        # Qt proje dosyası
+
 ```
 
 ## 🍓 Sınıf Yapısı
